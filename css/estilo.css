@@ -205,6 +205,8 @@ PANTALLA DE ESCRITORIO MEDIANO - MEDIUM (md) - revisamos en tablet horizontal 10
 		width:100%;
 	}
 
+	
+
 }
 
 /*=============================================
@@ -300,7 +302,4 @@ PANTALLA DE PHONES - EXTRA SMALL (xs) - revisamos en movil horizontal 480px o ve
 		font-size: 1em;
 		right:2%;
 	}
-
-
-
 }
